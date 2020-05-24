@@ -1,7 +1,7 @@
 .first {
-    border: 1px solid #524b4b;
+    border: 1px solid grey;
     padding: 20px;
-    background: #524b4b;
+    background: grey;
     color: black;
 }
 .second {
